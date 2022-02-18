@@ -1,0 +1,4 @@
+# комментарий
+EspConnectionConfig  KEYWORD1
+testWifi  KEYWORD2
+setup  KEYWORD2
